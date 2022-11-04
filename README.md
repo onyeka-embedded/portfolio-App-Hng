@@ -12,6 +12,8 @@ The view folder contains all the app screens starting from the mainpage, the abo
 
 Finally the assets folder housed all the images I used in the development of the app and also the font
 
+## Design Description
+
 ## Library used:
 - Provider: I used Provider for the state management because it's easy to use and avoid boilerplate codes
 
