@@ -31,8 +31,8 @@ the design currently is a five page app with two functional pages - the main pag
 https://appetize.io/app/yyivaikwrlnoup3pz7b2xaheje?device=pixel4&osVersion=11.0&scale=75
 
 ## Challenges: 
-The greatest challenge I faced is coming up with a design.
-language translation
+- The greatest challenge I faced was coming up with a design.
+- language translation
 
 
 ## ScreenShot
