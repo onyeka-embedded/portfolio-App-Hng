@@ -17,10 +17,10 @@ Finally the assets folder housed all the images I used in the development of the
 
 - url_laucher: I also used url_launcher for launching my social media handles on external browser bacause of it's ease of usage
 
-##More features:
-I will like to implement the remaining blank screens e.g. resume etc. when I have the time, probably add cool animations to the app.
+## More features:
+- I will like to implement the remaining blank screens e.g. resume etc. when I have the time, probably add cool animations to the app.
 
-I will also like to upgrade the app to a custom portfolio builder, so that people can it to customize their portfolio.
+- I will also like to upgrade the app to a custom portfolio builder, so that people can it to customize their portfolio.
 
 ## Challenges: 
 The greatest challenge I faced is coming up with a design.
