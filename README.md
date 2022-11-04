@@ -1,18 +1,21 @@
 # portfolio_app
 
-The application is portfolio app, that shows my details; description, about, education, work experience, portfolio etc.
+The application is portfolio app, that shows my details; description, about, education, work experience, work portfolio and function social media links.
 Features: 
 - Light/dark mode - the application can switch between light and dark mode.
 - Responsiveness - it can fit in any screen size
+- Functional social media links
 
 ## Description of the code:
 First of all, I used Provider for the state management; as shown in the folder arrangements, the provider folder containers the themeprovider class that extends the ChangeNotifier, this provides us with notifierlistener() that notifier our UI whenever changes(in this case dark/light mode icons) are made on the app.
 
-The view folder contains all the app screens starting from the mainpage, the about to skill page, while the widgets folder containers the custom made widget I made to made the code readable and compact
+The view folder contains all the app screens starting from the mainpage, the about to skill page, while the widgets folder contains the custom made widgets I made to allow for readeablility of the code
 
 Finally the assets folder housed all the images I used in the development of the app and also the font
 
 ## Design Description
+i got the design inspiration from https://dribbble.com/shots/14436103-Resume-App.
+the design currently is a five page app with two functional pages - the main page and about page
 
 ## Library used:
 - Provider: I used Provider for the state management because it's easy to use and avoid boilerplate codes
