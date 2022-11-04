@@ -22,6 +22,9 @@ Finally the assets folder housed all the images I used in the development of the
 
 - I will also like to upgrade the app to a custom portfolio builder, so that people can it to customize their portfolio.
 
+## Appetize.io link
+https://appetize.io/app/yyivaikwrlnoup3pz7b2xaheje?device=pixel4&osVersion=11.0&scale=75- 
+
 ## Challenges: 
 The greatest challenge I faced is coming up with a design.
 language translation
