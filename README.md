@@ -19,8 +19,8 @@ the design currently is a five page app with two functional pages - the main pag
 
 ## Library used:
 - Provider: I used Provider for the state management because it's easy to use and avoid boilerplate codes
-
 - url_laucher: I also used url_launcher for launching my social media handles on external browser bacause of it's ease of usage
+- MediaQuery for Responsiveness
 
 ## More features:
 - I will like to implement the remaining blank screens e.g. resume etc. when I have the time, probably add cool animations to the app.
