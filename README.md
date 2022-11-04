@@ -27,12 +27,16 @@ the design currently is a five page app with two functional pages - the main pag
 
 - I will also like to upgrade the app to a custom portfolio builder, so that people can it to customize their portfolio.
 
-## Appetize.io link
-https://appetize.io/app/yyivaikwrlnoup3pz7b2xaheje?device=pixel4&osVersion=11.0&scale=75
+## APK link
+https://drive.google.com/folderview?id=1T2ouxujRcO8qDZWbpyBgKrQgSkxu_FnZ
 
 ## Challenges: 
 - The greatest challenge I faced was coming up with a design.
 - language translation
+
+
+## Appetize.io link
+https://appetize.io/app/yyivaikwrlnoup3pz7b2xaheje?device=pixel4&osVersion=11.0&scale=75
 
 
 ## ScreenShot
