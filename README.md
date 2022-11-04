@@ -29,4 +29,7 @@ language translation
 
 ## ScreenShot
 ![Screenshot_2022-11-03-21-08-59-55](https://user-images.githubusercontent.com/85957655/199946257-6fc05d3b-e769-4377-b5e6-41af98bb2f08.jpg)
+
+![Screenshot_2022-11-03-13-40-55-33_f044acf9007e50acd7ab07b12a7eafa6](https://user-images.githubusercontent.com/85957655/199946541-feb3fbe2-1029-4664-ab2f-d129c866c7ac.jpg)
+
  
